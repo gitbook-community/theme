@@ -10,7 +10,7 @@
   "devDependencies": {
     "browserify": "13.1.0",
     "eslint": "3.6.1",
-    "font-awesome": "4.6.3",
+    "font-awesome": "4.7.0",
     "preboot": "git+https://github.com/mdo/preboot.git#4aab4edd85f076d50609cbe28e4fe66cc0771701",
     "gitbook-logos": "git+https://github.com/GitbookIO/logos.git#2.0.2",
     "gitbook-markdown-css": "1.0.1",
