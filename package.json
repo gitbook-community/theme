@@ -15,7 +15,7 @@
     "gitbook-logos": "git+https://github.com/GitbookIO/logos.git#2.0.2",
     "gitbook-markdown-css": "1.0.1",
     "jquery": "3.1.1",
-    "less": "2.7.1",
+    "less": "3.11.2",
     "less-plugin-clean-css": "1.5.1",
     "mousetrap": "1.6.0",
     "uglify-js": "2.7.3"
