@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "browserify": "13.1.0",
+    "browserify": "17.0.0",
     "eslint": "3.6.1",
     "font-awesome": "4.6.3",
     "preboot": "git+https://github.com/mdo/preboot.git#4aab4edd85f076d50609cbe28e4fe66cc0771701",
