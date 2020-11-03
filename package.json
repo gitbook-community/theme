@@ -18,7 +18,7 @@
     "less": "2.7.1",
     "less-plugin-clean-css": "1.5.1",
     "mousetrap": "1.6.0",
-    "uglify-js": "2.7.3"
+    "uglify-js": "3.11.5"
   },
   "scripts": {
     "prepublish": "./src/build.sh"
